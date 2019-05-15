@@ -11,3 +11,8 @@ https://github.com/Draveness/analyze/blob/master/contents/OHHTTPStubs/iOS%20开�
 
 octokit ios的一个框架
 https://github.com/octokit/octokit.objc
+
+MVVMReactiveCocoa
+https://github.com/leichunfeng/MVVMReactiveCocoa
+
+
